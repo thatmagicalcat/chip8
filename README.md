@@ -23,5 +23,19 @@ chip8
 
 ```
 
+## Installation
+
+``` shell
+$ git clone https://github.com/Pranjal-Patel/chip8
+$ cd chip8
+$ cargo install --path desktop
+```
+
+## Usage
+
+``` shell
+$ chip8 /path/to/game
+```
+
 ## Since this is my first project, I learned from this book
 https://github.com/aquova/chip8-book
