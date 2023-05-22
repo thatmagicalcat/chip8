@@ -5,11 +5,11 @@ A chip8 emulator written in rust
 
 ```
 chip8
-├── chip8_core
+├── chip8_core          - Backend
 │   ├── Cargo.toml
 │   └── src
 │       └── lib.rs
-├── desktop
+├── desktop             - Fontend
 │   ├── Cargo.lock
 │   ├── Cargo.toml
 │   └── src
