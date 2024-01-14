@@ -36,6 +36,3 @@ $ cargo install --path desktop
 ``` shell
 $ chip8 /path/to/game
 ```
-
-## Since this is my first project, I learned from this book
-https://github.com/aquova/chip8-book
